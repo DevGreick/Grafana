@@ -3,13 +3,6 @@ http://docs.grafana.org/installation/docker/
 
 http://docs.grafana.org/installation/configuration/
 
-Se você não sabe o que é Docker, recomendo começar lendo os links desta página. É um longo caminho, mas vale a pena conhecer essa tecnologia.
-
-http://blog.aeciopires.com/palestra-transportando-as-aplicacoes-entre-varios-ambientes-com-docker/
-http://blog.aeciopires.com/primeiros-passos-com-docker/
-
-Também dou curso de Docker: http://blog.aeciopires.com/curso-docker
-
 Para instalar o Grafana e as dependências foram executados os passos abaixo.
 
 1) Crie o diretório de dados do Grafana a serem persistidos fora do conteiner.
