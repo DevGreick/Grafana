@@ -10,6 +10,7 @@ Para instalar o Grafana e as dependências foram executados os passos abaixo.
 sudo mkdir -p /docker/grafana/data
 sudo chown -R 472:472 /docker/grafana/data
 sudo chmod -R 775 /docker/grafana
+
 2) OPCIONAL: Para usar o grafana com HTTPS, crie o diretório abaixo e em seguida copie a chave pública (EX.: certificado.crt) e privada (EX.: certificado.key) do certificado a ser usado.
 
 sudo mkdir -p /docker/grafana/certs
